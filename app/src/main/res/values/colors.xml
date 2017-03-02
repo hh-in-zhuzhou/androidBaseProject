@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="textgray">#6E6E6E</color>
+    <color name="grayBackground">#D1D1D1</color>
+    <color name="littleGray">#eeeeee</color>
+    <color name="orange">#ff7500</color>
+    <color name="white">#fff</color>
+
+    <color name="text_blue">#151260</color>
+
+    <!--报价界面绿按钮底色-->
+    <color name="price_btn_color">#CFFAE6</color>
+    <color name="price_btn_text_color">#00F960</color>
+
+    <!--订单页面弹出窗口底色-->
+    <color name="order_popup_bac">#E1FFF2</color>
+
+    <!--业绩奖金页面按钮颜色-->
+    <color name="bonus_btn_color">#ec632b</color>
+    <color name="bonus_text_color1">#EAAB3D</color>
+    <color name="bonus_text_color2">#EEDB57</color>
+</resources>

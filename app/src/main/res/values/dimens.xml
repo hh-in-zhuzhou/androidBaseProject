@@ -1,0 +1,46 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="edge">8dp</dimen>
+    <dimen name="negative_edge">-8dp</dimen>
+    <dimen name="edge2">16dp</dimen>
+    <dimen name="rect_width">60dp</dimen>
+
+    <!--首页信息标签的固定宽度-->
+    <dimen name="value_label_width">80dp</dimen>
+
+    <!--首页标签字体大小-->
+    <dimen name="text_size_small">10dp</dimen>
+    <dimen name="text_size_12">12dp</dimen>
+    <dimen name="text_size_normal">14dp</dimen>
+    <dimen name="text_size_big">18dp</dimen>
+
+    <!--导航栏标题字体大小-->
+    <dimen name="nav_title_font_size">20dp</dimen>
+    <dimen name="nav_height">44dp</dimen>
+
+    <dimen name="flow_btn_height">30dp</dimen>
+    <dimen name="flow_btn_height_half">15dp</dimen>
+
+    <!--订单页面间距-->
+    <dimen name="order_gray_height">10dp</dimen>
+
+    <!--订单搜索菜单item高度-->
+    <dimen name="menu_item_height">40dp</dimen>
+
+    <!--名片类自助报价按钮高度-->
+    <dimen name="card_btn_height">30dp</dimen>
+
+    <!--按钮上图与文字间距-->
+    <dimen name="drawable_top_padding">4dp</dimen>
+
+    <dimen name="caculator_text_size">35dp</dimen>
+
+    <!--物流拍照页面图片大小-->
+    <dimen name="express_pic_size">80dp</dimen>
+
+    <!--扫码枪界面小键盘字体大小-->
+    <dimen name="kb_size">30dp</dimen>
+</resources>

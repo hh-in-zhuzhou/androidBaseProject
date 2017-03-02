@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hh.androidbaseproject.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"></FrameLayout>
+
+        <RadioGroup
+            android:id="@+id/tabbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#eeeeee"
+            android:orientation="horizontal">
+            <RadioButton
+                android:id="@+id/first_page"
+                style="@style/radioBtn"
+                android:singleLine="true"
+                android:drawableTop="@drawable/home_select"
+                android:textColor="@drawable/textcolor_select"
+                android:text="首页"/>
+            <RadioButton
+                android:id="@+id/settings_page"
+                style="@style/radioBtn"
+                android:singleLine="true"
+                android:drawableTop="@drawable/user_select"
+                android:textColor="@drawable/textcolor_select"
+                android:text="我的"/>
+        </RadioGroup>
+    </LinearLayout>
+</RelativeLayout>
